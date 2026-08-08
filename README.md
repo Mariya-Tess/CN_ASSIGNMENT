@@ -8,4 +8,4 @@
 - Course: Computer Networks
 
 ### About
-This repository contains my Computer Networks Module 1 and 2 assignments.
+This repository contains my Computer Networks 1 and 2 assignments.
